@@ -1,4 +1,3 @@
-<img width="1729" height="833" alt="image" src="https://github.com/user-attachments/assets/1f9c4099-ca72-4a54-9107-9ec7a17da40f" /># Machine-Learning-na-Pratica-no-Azure-ML
 ## Projeto DIO - Como criar um modelo de previsão - Seguindo o Tutorial
 
 **Iniciamos um "novo trabalho de ML Automatizado"**
@@ -84,17 +83,17 @@ Avançar
 
 <img width="1017" height="704" alt="image" src="https://github.com/user-attachments/assets/00719926-d16e-4008-9436-adc1a725d312" />
 
-**Em Computação**
+**Em Computação**  
 -Selecione o tipo de computação: Sem servidor  
 -Tipo de máquina virtual: CPU  
 -Tipo de máquina virtual: Dedicado  
 -Tamanho da máquina virtual: Standard_DS3_v2 (4 núcleo(s), 14GB RAM, 28GB de armazenamento) ou escolha qualquer um disponível.
--Número de Instâncias: 1
+-Número de Instâncias: 1  
 Avançar
 
 <img width="1525" height="765" alt="image" src="https://github.com/user-attachments/assets/e0541add-90ef-4465-964e-6c4d25f5f0c6" />
 
-**Em Examinar**
+**Em Examinar**  
 Clique em "Enviar trabalho de treiamento"  
 Aguarde, pode demorar ate 15min para finalizar  
 
