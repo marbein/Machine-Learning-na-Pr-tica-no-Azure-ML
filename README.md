@@ -116,8 +116,8 @@ Clique no nome do "Nome do algoritmo"
 Implantar  
 Aguarde, demora entre 5 a 10 min
 
-<img width="558" height="746" alt="image" src="https://github.com/user-attachments/assets/8eaead1b-63a3-4653-b5a7-c07ba1bc1434" />
-**OBS: tive problemas com esse passo caso esteja acontecendo algum erro veja esse link (https://learn.microsoft.com/en-us/answers/questions/2129910/resource-provider-(n-a)-isnt-registered-with-subsc)**  
+<img width="558" height="746" alt="image" src="https://github.com/user-attachments/assets/8eaead1b-63a3-4653-b5a7-c07ba1bc1434" />  
+**OBS: tive problemas com esse passo caso esteja acontecendo algum erro veja esse link** (https://learn.microsoft.com/en-us/answers/questions/2129910/resource-provider-(n-a)-isnt-registered-with-subsc)  
 
 **Apos Concluido, va em Pontos de Extremidade,aba Testar**
 <img width="1922" height="907" alt="image" src="https://github.com/user-attachments/assets/6a390ed8-4257-4ea5-a7b0-3aefda5e5249" />
