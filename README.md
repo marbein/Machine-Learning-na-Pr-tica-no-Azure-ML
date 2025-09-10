@@ -155,7 +155,7 @@ Ira Aparecer um resultado semelhante a esse:
 ]
 ```
 
-**Apos todo o processo iremos excluir o serviço criado para nao consumir os creditos.**
+**Apos todo o processo exclua o "Pontos de Extremidade" e "espaço de trabalho" criado para nao consumir os creditos.**
 
 
 
